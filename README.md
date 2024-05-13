@@ -1,8 +1,5 @@
-<h1 align="left">Hey there👋</h1>
-
-###
-
-<h2 align="left">My name is Jürgen and I'm an aspiring Developer.</h2>
+<h1 align="left">Hey👋, my name is Jürgen and I'm an aspiring fullstack developer.</h1>
+<br>
 
 ###
 
@@ -11,6 +8,7 @@
 ###
 
 <p align="left">📚 I'm currently learning Node.js and MySQL<br>🎯 Goals: Become a Professional Developer</p>
+<br>
 
 ###
 
@@ -32,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
