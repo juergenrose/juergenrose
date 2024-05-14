@@ -1,22 +1,22 @@
-<h1 align="left">Hey👋, my name is Jürgen and I'm an aspiring fullstack developer.</h1>
+<h1 align="center">Hi there👋, I am Jürgen Mosgan.</h1>
 <br>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">📚 I'm currently learning Node.js and MySQL<br>🎯 Goals: Become a Professional Developer</p>
+<p align="center">📚 I'm currently learning Node.js and MySQL.</p>
 <br>
 
 ###
 
-<h2 align="left">Languages and tools</h2>
+<h2 align="center">Languages and tools</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="windows logo"  />
   <img width="12" />
-
 </div>
+<br>
 
 ###
