@@ -7,7 +7,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning Node.js and MySQL.</p>
+<p align="center">📚 I'm currently learning TypeScript and React</p>
 <br>
 
 ###
